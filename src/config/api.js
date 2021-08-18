@@ -1,0 +1,1 @@
+export const WEATHER_API_URL = 'https://jobsity-challenge-api.vercel.app/api';

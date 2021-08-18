@@ -1,0 +1,16 @@
+.date-reminder {
+  position: relative;
+  padding-top: 2rem !important;
+  &__number {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2rem;
+    padding: 0.3rem;
+  }
+  ul {
+    height: 100%;
+    overflow: auto;
+  }
+}
